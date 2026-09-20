@@ -1,4 +1,4 @@
-# Heart Failure Clinical Records — EDA & Machine Learning
+# Heart Failure Clinical Records EDA & Machine Learning
 
 Reproducible Python portfolio project for **exploratory data analysis** and **binary classification** on the Heart Failure Clinical Records dataset.
 
