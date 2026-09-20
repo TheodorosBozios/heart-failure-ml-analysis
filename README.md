@@ -64,7 +64,7 @@ Results (tables + plots) are written to the `outputs/` folder.
 - Hierarchical clustering
 - Reproducible project structure
 
-## Portfolio Description (for CV)
+
 
 **Heart Failure Clinical Records — EDA & Machine Learning | Python**  
 Performed end-to-end exploratory analysis and binary classification on heart failure clinical data. Built multiple models (Logistic Regression, Random Forest, Decision Tree, LDA, Perceptron), evaluated them with stratified CV and standard metrics, and added hierarchical clustering for patient segmentation.
